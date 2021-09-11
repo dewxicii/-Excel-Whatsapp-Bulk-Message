@@ -1,4 +1,4 @@
-# Excel-Whatsapp-Bulk-Message
+# Excel-Whatsapp-Message
 
 Save your contacts in Excel 
 
